@@ -1,0 +1,8 @@
+id=EmojiOne-systemless
+name=Emoji One
+version=v1.4
+versionCode=10
+author=jerbear294
+description=在System-less下替换你的Emoji为EmojiOne。(注:Magisk版本需v17+)
+support=http://forum.xda-developers.com/apps/magisk/module-emoji-one-t3477911
+minMagisk=17000

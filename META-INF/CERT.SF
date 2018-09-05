@@ -1,0 +1,34 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: Dndhsl6bmVh5NHQ+5zfxGVVY/rw=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest-Manifest: EGXT4HXGBJlOomYxiGXzoEMbMrY=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest-Manifest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: README.md
+SHA1-Digest-Manifest: r/JX8wfttz3JLcIK++5ESwVnWTI=
+
+Name: common/system.prop
+SHA1-Digest-Manifest: HbzvC3Tyik76s7nzWE6amQuJyXg=
+
+Name: module.prop
+SHA1-Digest-Manifest: 9g6UtSjtiUMTMlTH1MZv5Qfpldw=
+
+Name: common/service.sh
+SHA1-Digest-Manifest: TOn/zXTfuf86lkAJLKXrKctujsY=
+
+Name: config.sh
+SHA1-Digest-Manifest: TdFoiBjRb0HH7rQ+HFa6P8NjGTA=
+
+Name: changelog.txt
+SHA1-Digest-Manifest: LMJJero0GcSrr+2ucZETrsLp7NU=
+
+Name: common/post-fs-data.sh
+SHA1-Digest-Manifest: SyX3X/PeDY9ntN8RXeBKc888YZg=
+
+Name: system/fonts/NotoColorEmoji.ttf
+SHA1-Digest-Manifest: GPfsonRjwirsZ5TVs2xCNbHZqbk=
+

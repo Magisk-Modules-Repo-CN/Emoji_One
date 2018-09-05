@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: vSnQkkZmsJNP/jBCCYBo/LzSYg4=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: module.prop
+SHA1-Digest: NE/yH5+aV5zGo79XIVRPwmHSzZM=
+
+Name: common/system.prop
+SHA1-Digest: 7TnZoxe4jX3vocrbr/oRcPziZMQ=
+
+Name: README.md
+SHA1-Digest: HqglFUr4JCFlpLzH2zKCiooUCbQ=
+
+Name: config.sh
+SHA1-Digest: 7z9Ukk4+bE5wu3gxyMsGJ6SXgTY=
+
+Name: common/service.sh
+SHA1-Digest: hCOn0sjc2mEMqqqcb7TFt4BEcVM=
+
+Name: system/fonts/NotoColorEmoji.ttf
+SHA1-Digest: TC10qslau21X6aoNKAVksOKXnKk=
+
+Name: common/post-fs-data.sh
+SHA1-Digest: W9c/DllxnfxrlloMGo5ef2mC+dc=
+
+Name: changelog.txt
+SHA1-Digest: ZXtKOf2YgFDRGJIcGokb8RKeQAk=
+
